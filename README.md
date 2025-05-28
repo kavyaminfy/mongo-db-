@@ -1,6 +1,5 @@
-# mongo-db-
-
-crosoft Windows [Version 10.0.26100.4061]
+```
+Microsoft Windows [Version 10.0.26100.4061]
 (c) Microsoft Corporation. All rights reserved.
 
 C:\Users\Minfy.DESKTOP-81ME0ME>mongosh
@@ -638,3 +637,5 @@ todoApp> const twentyMinutesAgo = new Date(Date.now() - 20 * 60 * 1000);
     dueDate: ISODate('2025-06-04T11:20:09.759Z')
   }
 ]
+todoApp>
+```
